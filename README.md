@@ -43,7 +43,6 @@ Intervention Suggestions: Provides recommended next steps for educators or careg
 
 📈 Sample Visualizations
 
-Include screenshots or GIFs of:
 <img width="912" height="544" alt="image" src="https://github.com/user-attachments/assets/7cecb0e1-5b3e-4c3f-b118-5dd0208c604c" />
 
 <img width="888" height="530" alt="image" src="https://github.com/user-attachments/assets/9c5a58f0-15af-48b0-bd41-df028ace0da9" />
